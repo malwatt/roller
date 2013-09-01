@@ -1,0 +1,13 @@
+body#index
+{
+  background-color:PaleTurquoise;
+}
+
+p#reminder
+{
+  text-align:center;
+  color:FireBrick;
+  font-size:1.5em;
+  font-weight:bold;
+  font-family:helvetica,arial,sans-serif;
+}
