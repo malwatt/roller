@@ -7,11 +7,11 @@
     %if background_color != "":
         style="background-color:{{ background_color }};"
     %end
-    >
+  >
   <p id="reminder"
       %if color !="":
           style="color:{{ color }};"
       %end
-      >{{ reminder }}</p>
+  >{{ reminder }}</p>
 </body>
 </html>
